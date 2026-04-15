@@ -1,0 +1,3 @@
+clear all; close all;
+
+syms L1; syms L2; syms L3;
